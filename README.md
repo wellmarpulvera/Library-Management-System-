@@ -84,4 +84,4 @@
 
 ## Screenshots:
 
-![Alt Text](https://i.imgur.com/a/5nxUlrb "Screenshots")
+![Alt Text](https://i.imgur.com/SxfU7Hj.png "Screenshots")

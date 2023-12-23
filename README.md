@@ -10,7 +10,7 @@
  - [Guinita, Daniel](https://github.com/daniel=guinita) <br>
  - [Oca, Jasmin](https://github.com/jasminoca) <br>
  - [Cabigas, Dione Alfred](https://github.com/DioneCabigas) <br>
- - [Wolfe, Justin](https://github.com/???) <br>
+ - [Wolfe, Justin](https://github.com/Jsteffi) <br>
  
 
 <br>

@@ -18,7 +18,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author morax
+ * @author Guinita
  */
 public class AddBorrowingFrame extends javax.swing.JFrame {
 

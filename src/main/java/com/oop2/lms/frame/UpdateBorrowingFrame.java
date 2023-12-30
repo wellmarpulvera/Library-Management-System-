@@ -17,7 +17,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author morax
+ * @author OCA
  */
 public class UpdateBorrowingFrame extends javax.swing.JFrame {
 

@@ -15,7 +15,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author morax
+ * @author GUINITA
  */
 public class AddReservationFrame extends javax.swing.JFrame {
 

@@ -9,7 +9,7 @@ import java.awt.Color;
 
 /**
  *
- * @author morax
+ * @author GUINITA
  */
 public class AddUserFrame extends javax.swing.JFrame {
 

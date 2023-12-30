@@ -11,7 +11,7 @@ import java.util.Date;
 
 /**
  *
- * @author morax
+ * @author Guinita
  */
 public class AddBookFrame extends javax.swing.JFrame {
 

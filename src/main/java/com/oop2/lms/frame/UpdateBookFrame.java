@@ -13,7 +13,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author morax
+ * @author PULVERA
  */
 public class UpdateBookFrame extends javax.swing.JFrame {
 

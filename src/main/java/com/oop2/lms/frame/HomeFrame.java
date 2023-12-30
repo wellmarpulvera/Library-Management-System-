@@ -23,7 +23,7 @@ import org.jfree.data.category.DefaultCategoryDataset;
 
 /**
  *
- * @author morax
+ * @author PULVERA
  */
 public class HomeFrame extends javax.swing.JFrame {
 

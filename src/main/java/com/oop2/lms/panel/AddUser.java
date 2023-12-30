@@ -8,7 +8,7 @@ import com.oop2.lms.db.DbHelper;
 
 /**
  *
- * @author morax
+ * @author GUINITA
  */
 public class AddUser extends javax.swing.JPanel {
 

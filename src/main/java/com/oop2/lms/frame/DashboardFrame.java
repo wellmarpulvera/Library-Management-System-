@@ -24,7 +24,7 @@ import org.jfree.data.category.DefaultCategoryDataset;
 
 /**
  *
- * @author morax
+ * @author GUINITA
  */
 public class DashboardFrame extends javax.swing.JFrame {
 
